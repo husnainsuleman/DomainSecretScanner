@@ -1,6 +1,8 @@
-# DomainSecretScanner
+# DomainSecretScanner 
 DomainSecretScanner automates secret extraction from JavaScript files, aiding bug bounty hunters, penetration testers, Security Researchers also developers.
 It simplifies collecting sensitive data like API keys and passwords, usernames, AWS Access keys, and others.
+
+<a href="https://www.buymeacoffee.com/husnainsuleman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 ## Features
